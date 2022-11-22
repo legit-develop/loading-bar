@@ -17,3 +17,7 @@ body {
 .counter {
   font-size: 40px;
 }
+
+.loading-bar-back {
+  position: absolute;
+}
